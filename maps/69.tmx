@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="91"/>
+  <property name="name" value="Don't Hold Your Breath"/>
+  <property name="start" value="4,8"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="13" height="13">
+  <data encoding="csv">
+0,0,0,0,34,34,34,34,34,34,34,34,34,
+0,0,34,34,34,59,33,35,33,59,34,3,34,
+0,0,34,60,34,59,34,33,34,59,34,33,34,
+34,34,34,33,34,35,33,13,37,59,33,53,34,
+34,60,33,33,34,33,34,33,34,33,34,53,34,
+34,34,34,33,34,59,33,13,33,35,37,3,34,
+0,0,34,33,34,33,34,33,34,33,34,33,34,
+0,0,34,59,35,59,33,13,33,59,37,59,34,
+0,0,34,35,35,35,34,33,34,33,34,59,34,
+0,0,34,35,35,59,33,59,33,59,34,59,34,
+0,0,34,34,35,34,34,34,34,34,34,34,34,
+0,0,0,34,35,33,33,33,33,57,34,0,0,
+0,0,0,34,34,34,34,34,34,34,34,0,0
+</data>
+ </layer>
+</map>

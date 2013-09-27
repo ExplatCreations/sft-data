@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="111"/>
+  <property name="name" value="Clutter"/>
+  <property name="start" value="7,9"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="15" height="13">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,
+34,37,3,37,3,37,3,37,3,37,3,37,3,37,34,
+34,37,37,37,37,37,37,37,37,37,37,37,37,37,34,
+34,37,37,37,37,37,37,37,37,37,37,37,37,37,34,
+34,34,34,13,35,13,35,13,35,13,35,13,34,34,34,
+0,0,34,35,13,35,13,35,13,35,13,35,34,0,0,
+0,0,34,35,35,13,35,13,35,13,35,35,34,0,0,
+0,0,34,35,13,35,35,13,35,35,13,35,34,0,0,
+0,34,34,13,13,35,13,13,13,35,13,13,34,34,0,
+0,34,15,13,35,13,35,35,35,13,35,13,15,34,0,
+0,34,35,14,34,34,34,34,34,34,34,14,35,34,0,
+0,34,34,34,34,0,0,0,0,0,34,34,34,34,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

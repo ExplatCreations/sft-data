@@ -1,0 +1,9 @@
+    When Sniffy steps off cracked tiles, the floor disintegrates, making walking over them an impossibility.
+    
+    
+    
+    
+    
+
+    When the tile crumbles, its magic is released immediately. No need to worry about it.
+

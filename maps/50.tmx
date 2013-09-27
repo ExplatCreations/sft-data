@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="17" height="7" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="68"/>
+  <property name="name" value="Tread Carefully"/>
+  <property name="start" value="1,4"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="17" height="7">
+  <data encoding="csv">
+0,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,0,
+0,34,4,4,3,3,3,4,4,4,4,4,3,4,3,34,0,
+0,34,34,34,3,4,3,34,4,19,3,34,4,3,4,34,34,
+34,34,34,3,3,4,4,34,4,4,4,34,4,4,19,3,34,
+34,35,35,34,4,3,4,34,4,4,4,34,4,4,3,34,34,
+34,35,35,4,3,4,3,4,4,4,4,4,3,3,4,34,0,
+34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,0
+</data>
+ </layer>
+</map>

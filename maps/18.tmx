@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="14" height="14" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="99"/>
+  <property name="name" value="Twisted Teleportation"/>
+  <property name="start" value="3,3"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="14" height="14">
+  <data encoding="csv">
+37,37,37,37,37,37,37,37,37,37,37,37,37,37,
+37,19,4,19,4,19,37,37,19,4,4,4,19,37,
+37,4,3,3,3,4,37,37,4,19,4,19,4,37,
+37,19,3,19,3,19,26,25,4,4,3,4,4,37,
+37,4,3,3,3,4,37,37,4,19,4,19,4,37,
+37,19,4,19,4,19,37,37,19,4,4,4,19,37,
+37,37,37,25,37,37,37,37,37,37,27,37,37,37,
+37,37,37,28,37,37,37,37,37,37,26,37,37,37,
+37,4,51,51,51,4,37,37,4,19,4,19,4,37,
+37,4,4,51,4,51,37,37,19,3,19,3,19,37,
+37,51,51,51,51,51,27,28,4,19,4,19,4,37,
+37,4,4,51,4,51,37,37,19,3,19,3,19,37,
+37,4,4,51,4,4,37,37,4,19,4,19,4,37,
+37,37,37,37,37,37,37,37,37,37,37,37,37,37
+</data>
+ </layer>
+</map>

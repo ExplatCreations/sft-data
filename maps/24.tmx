@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="14" height="11" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="127"/>
+  <property name="name" value="Filler"/>
+  <property name="start" value="7,5"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="14" height="11">
+  <data encoding="csv">
+0,0,0,34,34,34,34,34,34,34,34,34,0,0,
+0,0,0,34,35,35,35,35,35,35,37,34,0,0,
+0,0,0,34,35,35,37,34,34,34,3,34,0,0,
+34,34,34,34,35,37,13,35,35,34,3,34,0,0,
+34,3,34,34,37,13,35,13,35,34,3,34,34,34,
+34,4,34,34,34,35,13,35,35,34,3,4,25,34,
+34,4,34,28,34,35,13,35,13,37,34,34,34,34,
+34,4,34,35,35,35,13,13,37,3,3,4,28,34,
+34,4,34,34,34,35,35,35,35,34,34,34,34,34,
+34,37,37,37,37,37,35,35,25,34,0,0,0,0,
+34,34,34,34,34,34,34,34,34,34,0,0,0,0
+</data>
+ </layer>
+</map>

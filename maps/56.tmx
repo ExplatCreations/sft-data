@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="57"/>
+  <property name="name" value="Backtracking"/>
+  <property name="start" value="6,6"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="13" height="13">
+  <data encoding="csv">
+50,50,50,50,50,50,50,50,50,50,50,50,50,
+50,25,52,52,52,50,25,50,4,4,52,26,50,
+50,4,50,4,4,50,52,50,4,50,4,4,50,
+50,4,4,4,4,50,52,50,4,50,50,4,50,
+50,4,4,4,60,50,52,50,60,4,4,4,50,
+50,50,50,50,50,50,52,50,50,50,50,50,50,
+50,28,52,52,52,52,35,52,52,52,52,26,50,
+50,50,50,50,50,50,52,50,50,50,50,50,50,
+50,4,4,4,60,50,52,50,60,4,4,4,50,
+50,4,50,4,4,50,52,50,4,4,50,4,50,
+50,4,50,4,4,50,52,50,4,4,52,52,50,
+50,28,4,4,4,50,27,50,4,4,50,27,50,
+50,50,50,50,50,50,50,50,50,50,50,50,50
+</data>
+ </layer>
+</map>

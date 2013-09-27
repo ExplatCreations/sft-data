@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="11" height="11" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="60"/>
+  <property name="name" value="Retracing Your Steps"/>
+  <property name="start" value="5,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="11">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,34,34,34,
+34,4,19,19,19,19,19,19,19,4,34,
+34,19,34,34,34,3,34,34,34,19,34,
+34,19,34,0,34,3,34,0,34,19,34,
+34,19,34,34,34,3,34,34,34,19,34,
+34,4,19,19,19,19,19,19,19,4,34,
+34,19,34,34,34,19,34,34,34,19,34,
+34,19,34,0,34,19,34,0,34,19,34,
+34,19,34,34,34,19,34,34,34,19,34,
+34,4,19,19,19,3,19,19,19,4,34,
+34,34,34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

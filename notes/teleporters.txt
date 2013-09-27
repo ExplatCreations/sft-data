@@ -1,0 +1,11 @@
+    Teleportation
+
+    Quick and convenient travelling.
+
+    
+    
+    
+    
+
+    
+    By walking on a teleport pad, Sniffy is moved instantly to the pad of the same color.

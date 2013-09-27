@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="11" height="11" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="46"/>
+  <property name="name" value="Breaking Up"/>
+  <property name="start" value="3,5"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="11">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,34,34,34,
+34,35,35,35,4,4,4,34,4,37,34,
+34,35,60,35,52,52,52,3,60,37,34,
+34,37,37,35,37,37,37,37,37,37,34,
+34,37,37,35,37,4,4,52,52,4,34,
+34,37,37,35,33,4,37,4,37,4,34,
+34,37,37,35,37,4,52,52,4,4,34,
+34,37,37,35,37,37,37,37,37,37,34,
+34,35,57,35,52,52,52,3,60,37,34,
+34,35,35,35,52,52,52,4,4,37,34,
+34,34,34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

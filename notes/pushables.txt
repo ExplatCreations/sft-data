@@ -1,0 +1,11 @@
+    Movables
+
+    Some objects can be pushed around by walking into them.
+    
+    
+    
+    
+    
+
+
+    See how they react when touching different tiles!

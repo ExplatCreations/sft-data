@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="9" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="53"/>
+  <property name="name" value="Having a Ball"/>
+  <property name="start" value="1,2"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="9" height="13">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,34,
+34,19,35,3,34,35,35,19,34,
+34,35,3,35,14,35,35,3,34,
+34,3,35,3,34,35,34,3,34,
+34,34,37,34,34,35,34,3,34,
+34,3,19,3,34,35,35,19,34,
+34,19,3,19,34,34,34,37,34,
+34,3,19,3,14,3,3,3,34,
+34,3,53,53,53,53,53,53,34,
+34,19,3,3,14,3,3,35,34,
+34,3,19,3,14,3,19,35,34,
+34,53,3,19,14,3,3,35,34,
+34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

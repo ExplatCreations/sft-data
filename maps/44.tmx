@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="14" height="7" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="15"/>
+  <property name="name" value="Set in motion"/>
+  <property name="start" value="1,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="14" height="7">
+  <data encoding="csv">
+34,34,34,34,34,34,34,0,0,0,0,0,0,0,
+34,35,35,53,53,53,34,0,0,0,0,34,34,34,
+34,59,35,53,15,25,34,34,34,34,34,34,28,34,
+34,59,35,53,53,53,34,27,6,33,35,8,23,34,
+34,59,35,53,15,27,34,34,34,34,34,34,8,34,
+34,28,35,53,53,53,34,25,8,3,3,34,3,34,
+34,34,34,34,34,34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="53"/>
+  <property name="name" value="Trapped"/>
+  <property name="start" value="4,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,34,34,
+34,43,3,4,35,35,4,4,41,34,
+34,3,4,4,35,35,4,4,44,34,
+34,3,4,34,35,35,4,34,4,34,
+34,4,34,34,11,34,34,34,34,34,
+34,34,34,34,9,34,34,34,34,34,
+34,3,34,34,12,34,4,4,3,34,
+34,10,34,35,35,4,4,4,3,34,
+34,35,35,35,35,4,4,4,42,34,
+34,34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

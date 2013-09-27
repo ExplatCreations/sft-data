@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="87"/>
+  <property name="name" value="Security Crossroad"/>
+  <property name="start" value="2,2"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="13" height="13">
+  <data encoding="csv">
+34,34,34,34,34,34,0,34,34,34,34,34,34,
+34,4,4,37,37,34,0,34,37,3,19,3,34,
+34,4,3,19,37,34,0,34,37,19,4,19,34,
+34,37,19,3,4,34,34,34,4,3,19,3,34,
+34,37,37,4,7,19,19,19,24,4,37,37,34,
+34,34,34,34,19,3,4,3,19,34,34,34,34,
+0,0,0,34,19,4,6,4,19,34,0,0,0,
+34,34,34,34,19,3,4,3,19,34,34,34,34,
+34,4,4,4,24,19,19,19,7,37,4,4,34,
+34,4,37,37,4,34,34,34,4,4,4,4,34,
+34,4,19,3,4,34,0,34,4,4,4,4,34,
+34,4,3,19,4,34,0,34,4,4,4,37,34,
+34,34,34,34,34,34,0,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="11" height="9" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="15"/>
+  <property name="name" value="Between a Rock and a Slippery Place"/>
+  <property name="start" value="1,5"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="9">
+  <data encoding="csv">
+0,0,0,50,50,50,0,0,0,0,0,
+0,0,0,50,19,50,0,0,0,0,0,
+0,50,50,50,52,50,50,50,50,50,50,
+0,50,35,52,52,52,52,52,35,58,50,
+50,50,35,50,50,50,50,50,35,50,50,
+50,35,35,51,51,51,51,51,35,50,0,
+50,50,50,50,50,50,51,50,50,50,0,
+0,0,0,0,0,50,3,50,0,0,0,
+0,0,0,0,0,50,50,50,0,0,0
+</data>
+ </layer>
+</map>

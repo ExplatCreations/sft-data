@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="68"/>
+  <property name="name" value="Freezing Over"/>
+  <property name="start" value="6,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="13" height="13">
+  <data encoding="csv">
+53,53,53,34,34,34,34,34,34,34,53,53,53,
+53,53,53,34,3,3,35,3,3,34,53,53,53,
+53,53,53,34,3,3,60,3,3,34,53,53,53,
+53,53,53,34,3,3,35,3,3,34,53,53,53,
+34,34,34,34,53,53,53,53,51,34,34,34,34,
+34,3,3,37,53,53,53,53,51,37,3,3,34,
+34,35,60,37,53,53,53,53,53,37,33,34,34,
+34,3,3,37,53,53,53,53,51,37,3,3,34,
+34,34,3,34,53,53,53,53,51,34,3,34,34,
+53,34,3,34,3,35,3,37,3,34,3,34,53,
+53,34,3,3,3,35,3,37,57,3,3,34,53,
+53,34,34,34,3,35,3,37,3,34,34,34,53,
+53,53,53,34,34,34,34,34,34,34,53,53,53
+</data>
+ </layer>
+</map>

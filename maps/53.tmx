@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="14" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="96"/>
+  <property name="name" value="Pushy"/>
+  <property name="start" value="5,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="14" height="13">
+  <data encoding="csv">
+0,0,0,34,34,34,34,34,34,34,34,0,0,0,
+0,34,34,34,35,35,35,35,35,35,34,34,34,34,
+0,34,4,34,35,35,14,34,14,35,35,35,35,34,
+0,34,4,34,35,35,35,35,13,35,34,34,35,34,
+0,34,37,35,35,35,35,35,35,34,59,34,35,34,
+34,34,35,34,34,34,34,34,35,34,59,34,35,34,
+34,3,37,4,6,4,37,4,13,4,6,4,35,34,
+34,34,34,34,34,34,34,34,7,34,34,34,35,34,
+0,0,0,0,0,0,0,34,24,34,0,34,4,34,
+0,0,0,0,0,0,0,34,4,34,34,34,35,34,
+0,0,0,0,0,0,0,34,3,4,35,35,35,34,
+0,0,0,0,0,0,0,34,34,34,34,34,34,34,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

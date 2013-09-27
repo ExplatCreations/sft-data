@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="62"/>
+  <property name="name" value="Lockout"/>
+  <property name="start" value="6,6"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="13" height="13">
+  <data encoding="csv">
+0,0,34,34,34,34,34,34,34,34,34,0,0,
+0,0,34,35,12,3,41,11,35,35,34,0,0,
+34,34,34,35,8,9,24,24,24,35,34,34,34,
+34,35,35,44,8,35,35,43,11,35,35,35,34,
+34,35,8,10,8,10,24,24,24,24,24,11,34,
+34,10,8,35,8,35,42,35,11,35,10,3,34,
+34,35,8,35,8,41,35,43,8,35,8,35,34,
+34,3,12,35,9,35,44,35,8,35,8,12,34,
+34,9,24,24,24,24,24,12,8,12,8,35,34,
+34,35,35,35,9,42,35,35,8,35,41,35,34,
+34,34,34,35,24,24,24,11,8,35,34,34,34,
+0,0,34,35,35,9,44,3,12,35,34,0,0,
+0,0,34,34,34,34,34,34,34,34,34,0,0
+</data>
+ </layer>
+</map>

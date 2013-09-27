@@ -1,0 +1,5 @@
+These files are a part of Sniffy's Flip Trip.
+
+License file applies the "notes" and "maps" subdirectories.
+
+Copyright 2013, ExplatCreations

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="8" height="8" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="29"/>
+  <property name="name" value="Switching it Up"/>
+  <property name="start" value="1,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="8" height="8">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,
+34,35,6,3,24,3,3,34,
+34,3,3,3,34,3,6,34,
+34,34,34,34,34,3,3,34,
+34,3,24,3,34,7,7,34,
+34,3,24,3,3,3,3,34,
+34,3,24,3,3,6,3,34,
+34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

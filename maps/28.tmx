@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="35"/>
+  <property name="name" value="Paintballs"/>
+  <property name="start" value="1,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+34,34,34,34,34,34,34,34,34,34,
+34,35,15,19,19,19,19,35,37,34,
+34,34,34,34,34,34,34,35,34,34,
+34,37,3,19,3,19,15,35,34,0,
+34,37,19,3,19,3,15,35,34,0,
+34,34,35,34,34,34,34,34,34,34,
+0,34,35,15,3,19,3,19,37,34,
+0,34,35,15,3,3,3,3,37,34,
+0,34,35,15,19,19,3,3,37,34,
+0,34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>

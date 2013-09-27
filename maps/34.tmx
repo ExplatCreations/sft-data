@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="11" height="12" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="gold" value="81"/>
+  <property name="name" value="Passage"/>
+  <property name="start" value="4,1"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../../assets/sprites/tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="12">
+  <data encoding="csv">
+0,34,34,34,34,34,34,34,34,34,34,
+0,34,26,34,35,58,35,3,3,27,34,
+0,34,37,34,35,15,34,34,34,3,34,
+0,34,37,34,35,35,34,0,34,3,34,
+0,34,4,34,34,35,34,34,34,3,34,
+0,34,4,37,34,15,4,4,34,3,34,
+0,34,34,34,34,35,34,34,34,3,34,
+34,34,35,35,35,35,35,35,35,3,34,
+34,3,35,35,35,15,35,35,35,3,34,
+34,27,3,35,35,35,35,35,3,26,34,
+34,53,53,53,53,53,53,53,53,53,34,
+34,34,34,34,34,34,34,34,34,34,34
+</data>
+ </layer>
+</map>
