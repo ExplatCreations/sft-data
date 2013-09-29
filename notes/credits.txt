@@ -1,10 +1,10 @@
 Credits
     
 Programming
-@MoopsLC
+MoopsLC
 
 Music & Graphics
-@ericsmellsfunny
+paste
 
 Design & Levelsmith
-octoborg
+Octoborg
